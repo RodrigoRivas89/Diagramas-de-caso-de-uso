@@ -1,4 +1,5 @@
 # Diagramas de caso de uso
-Caso de uso 1 - Generar re
+Caso de uso 1 - Registrar paciente
 
-![Registrar paciente](https://github.com/user-attachments/assets/f584d16a-27f5-4869-b4b7-aadf1a2c1a2c)
+![Registrar paciente](https://github.com/user-attachments/assets/a877eaae-07a7-4ede-a36a-07338a78d3d8)
+
